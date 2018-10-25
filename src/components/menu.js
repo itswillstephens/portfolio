@@ -1,11 +1,12 @@
 import React from 'react';
 import Link from 'gatsby-link';
+import { Container, Row, Col } from 'reactstrap';
 
 const Menu = () => (
   <div style={{
     backgroundColor: '#f4f4f4',
     paddingTop: '10px'
-  }}>
+    }}>
 
     <ul style={{
       listStyle: 'none',
@@ -18,6 +19,7 @@ const Menu = () => (
       <li><Link to="/projects">Projects</Link></li>
     </ul>
   </div>
+
 )
 
 export default Menu;
