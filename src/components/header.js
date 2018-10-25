@@ -16,9 +16,9 @@ const Header = ({ siteTitle }) => (
         padding: '1.45rem 1.0875rem',
       }}
     >
-      <img 
+      <span>><img 
         src={Avatar} 
-        style={{height: '50px', width: '50px', marginRight: '6px', radius: '50%'}} 
+        style={{height: '50px', width: '50px', marginRight: '6px', borderRadius: '50%'}} 
         alt="wssdesigns logo"
       >
       </img>
@@ -32,7 +32,7 @@ const Header = ({ siteTitle }) => (
         >
           {siteTitle}
         </Link>
-      </h1>
+      </h1></span>
     </div>
   </div>
 )
