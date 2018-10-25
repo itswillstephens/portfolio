@@ -16,13 +16,13 @@ const Header = ({ siteTitle }) => (
         padding: '1.45rem 1.0875rem',
       }}
     >
-      <img 
-        src={Avatar} 
-        style={{height: '50px', width: '50px', marginRight: '6px', borderRadius: '50%'}} 
-        alt="wssdesigns logo"
-      >
-      </img>
       <span style={{ margin: 0 }}>
+        <img 
+          src={Avatar} 
+          style={{height: '50px', width: '50px', marginRight: '6px', borderRadius: '50%'}} 
+          alt="wssdesigns logo"
+        >
+        </img>
         <Link
           to="/"
           style={{
