@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import Avatar from '../images/wss.jpg'
 
 const Header = ({ siteTitle }) => (
   <div
@@ -8,6 +9,14 @@ const Header = ({ siteTitle }) => (
       marginBottom: '0',
     }}
   >
+
+    <img 
+      src={Avatar} 
+      style={{height: '50px', width: '50px', marginRight: '6px'}} alt="goodstreams logo"
+    >
+    </img>
+
+
     <div
       style={{
         margin: '0 auto',

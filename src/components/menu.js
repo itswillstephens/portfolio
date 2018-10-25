@@ -4,8 +4,10 @@ import Link from 'gatsby-link';
 const Menu = () => (
   <div style={{
     backgroundColor: '#f4f4f4',
-    paddingTop: '10px'
+    paddingTop: '10px',
+    maxWidth: 960
   }}>
+
     <ul style={{
       listStyle: 'none',
       display: 'flex',
