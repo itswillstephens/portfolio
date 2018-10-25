@@ -1,8 +1,8 @@
 {
   "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "description": "WSS Designs",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Will Stephens <wssdesigns@gmail.com>",
   "dependencies": {
     "gatsby": "^2.0.19",
     "gatsby-image": "^2.0.15",
@@ -14,6 +14,7 @@
     "gatsby-transformer-sharp": "^2.1.4",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
+    "react-driftjs": "^1.1.4",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
@@ -31,6 +32,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://www.wssdesigns.com"
   }
 }

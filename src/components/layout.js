@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
+import Drift from 'react-driftjs'
 import { StaticQuery, graphql } from 'gatsby'
 
 import Header from './header'
@@ -29,6 +30,7 @@ const Layout = ({ children }) => (
         >
           <html lang="en" />
         </Helmet>
+        <Drift appId="nnfpsmpah8zf" />
         <Header siteTitle={data.site.siteMetadata.title} />
         <Menu />
         <div
