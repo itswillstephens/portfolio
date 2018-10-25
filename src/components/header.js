@@ -9,14 +9,6 @@ const Header = ({ siteTitle }) => (
       marginBottom: '0',
     }}
   >
-
-    <img 
-      src={Avatar} 
-      style={{height: '50px', width: '50px', marginRight: '6px'}} alt="goodstreams logo"
-    >
-    </img>
-
-
     <div
       style={{
         margin: '0 auto',
@@ -24,6 +16,11 @@ const Header = ({ siteTitle }) => (
         padding: '1.45rem 1.0875rem',
       }}
     >
+      <img 
+        src={Avatar} 
+        style={{height: '50px', width: '50px', marginRight: '6px', radius: '50%}} alt="goodstreams logo"
+      >
+      </img>
       <h1 style={{ margin: 0 }}>
         <Link
           to="/"
