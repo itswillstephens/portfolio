@@ -18,7 +18,8 @@ const Header = ({ siteTitle }) => (
     >
       <img 
         src={Avatar} 
-        style={{height: '50px', width: '50px', marginRight: '6px', radius: '50%}} alt="goodstreams logo"
+        style={{height: '50px', width: '50px', marginRight: '6px', radius: '50%'}} 
+        alt="wssdesigns logo"
       >
       </img>
       <h1 style={{ margin: 0 }}>
