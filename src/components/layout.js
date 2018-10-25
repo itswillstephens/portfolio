@@ -30,7 +30,6 @@ const Layout = ({ children }) => (
         >
           <html lang="en" />
         </Helmet>
-        <Drift appId="nnfpsmpah8zf" />
         <Header siteTitle={data.site.siteMetadata.title} />
         <Menu />
         <div
@@ -38,11 +37,12 @@ const Layout = ({ children }) => (
             margin: '0 auto',
             maxWidth: 960,
             padding: '0px 1.0875rem 1.45rem',
-            paddingTop: 0,
+            paddingTop: 0
           }}
         >
           {children}
         </div>
+        <Drift appId="nnfpsmpah8zf" />
       </>
     )}
   />
