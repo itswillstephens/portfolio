@@ -1,9 +1,13 @@
 import React from 'react'
 import Layout from '../components/layout'
-
+import ResumePDF from '../documents/Will-Stephens-Resume.pdf'
 const Resume = () => (
   <Layout>
+    
     <h1>Resume</h1>
+
+      <p><a href={ResumePDF} download style={{color: 'blue'}}>Download PDF</a></p>
+
       <h3>Professional Experience</h3>
       <div style={{fontWeight: '900'}}>Co-Founder & COO, BeerMenus Inc. – Brooklyn, NY, March 2008 - Present</div>
         <ul style={{paddingLeft: '20px'}}>
