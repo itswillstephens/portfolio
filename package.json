@@ -15,7 +15,8 @@
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-driftjs": "^1.1.4",
-    "react-helmet": "^5.2.0"
+    "react-helmet": "^5.2.0",
+    "reactstrap": "^6.5.0"
   },
   "keywords": [
     "gatsby"
