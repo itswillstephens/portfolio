@@ -18,7 +18,7 @@ const IndexPage = () => (
     <p>Once we found product-market fit with a subscription service for bars and restaurants, we quickly recognized the importance of retention and I developed our Customer Success department.</p>
 
     <YouTube id='HpDqzJfvkw4' />
-    <div style={{fontSize: '0.7rem', textAlign: 'center'}}>Here's a video HelpScout made to document our Customer Success team</div>
+    <div style={{fontSize: '0.7rem', textAlign: 'center'}}>Here's a video HelpScout made about our Customer Success team</div>
     <br/>
 
     <p>As the company grew even more, I shifted my focus to developing new products and growing our audience of craft beer fans. This included scoping, roadmapping, testing, and launching new features. Working closely with our product team got me excited to dive deeper into the product side in order to speed up our product launch cycle.</p>
