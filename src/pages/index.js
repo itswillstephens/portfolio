@@ -11,7 +11,7 @@ const IndexPage = () => (
 
     <p>I'm an entrepreneur, customer success engineer, and beer brewer.</p>
 
-    <p>I started my career co-founding <a href="https//www.beermenus.com" style={{color: 'blue'}}>BeerMenus</a>, which is the largest platform for locating craft beer with >40,000 bars, restaurants and beer stores participating worldwide.</p>
+    <p>I started my career co-founding <a href="https://www.beermenus.com" style={{color: 'blue'}}>BeerMenus</a>, which is the largest platform for locating craft beer with >40,000 bars, restaurants and beer stores participating worldwide.</p>
     
     <p>Early on as the sole employee I spent most of my time interviewing customers to get feedback and to learn what the company and product should eventually become.</p>
     

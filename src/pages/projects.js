@@ -22,7 +22,7 @@ const Projects = () => (
       <ul style={{paddingLeft: '20px'}}>
         <li><a href="https://www.beermenus.com" style={{color: 'blue'}}>Web</a></li>
         <li><a href="https://itunes.apple.com/app/apple-store/id917882057?mt=8" style={{color: 'blue'}}>iOS</a></li>
-        <li><a href="https://play.google.com/store/apps/details?id=com.beermenus.beermenus" style={{color: 'blue'}}>Android</a></li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.beermenus.beermenus&hl=en_US" style={{color: 'blue'}}>Android</a></li>
       </ul>
       <br/>
     <hr/>
