@@ -51,7 +51,7 @@ const Resume = () => (
           <li>HTML, CSS, Bootstrap, Javascript</li>
           <li>Github</li>
           <li>React, Redux, Angular</li>
-          <li>MondoDB, Express, Node</li>
+          <li>MongoDB, Express, Node</li>
           <li>HelpScout</li>
           <li>Intercom, Drift</li>
           <li>Basecamp, Trello, Asana</li>
@@ -62,7 +62,7 @@ const Resume = () => (
         </ul>
       <h3>Education</h3>
         <div style={{fontWeight: '900'}}>Hack Reactor, New York, NY</div>
-        <div>>500 hours of full stack web development and computer science.</div>
+        <div>Summer 2018. Full time web development immersive with >500 hours of full stack web development and computer science.</div>
         <br/>
         <div style={{fontWeight: '900'}}>Dickinson College, Carlisle, PA</div>
         <div>Bachelor of Arts, May 2006.</div>

@@ -10,7 +10,7 @@ const Projects = () => (
     <div style={{fontWeight: '900'}}>BeerMenus</div>
     <div>March 2008 - present</div>
     <br/>
-    <p>I co-founded <a href="https://www.beermenus.com" style={{color: 'blue'}}>BeerMenus</a> in 2008. BeerMenus is the largest platform for finding craft beer with >40,000 participating businesses and millions of craft beer fans visiting each month. The main product is a SaaS subscription for craft beer retailers that helps them market their craft beer selection to local craft beer fans.</p>
+    <p><a href="https://www.beermenus.com" style={{color: 'blue'}}>BeerMenus</a> is the largest platform for finding craft beer with >40,000 participating businesses worldwide and millions of craft beer fans visiting each month.</p>
 
     <img
       src={BeerMenus}
