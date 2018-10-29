@@ -18,8 +18,9 @@ const IndexPage = () => (
     <p>Once we found product-market fit with a subscription service for bars and restaurants, we quickly recognized the importance of retention and I developed our Customer Success department.</p>
 
     <YouTube id='HpDqzJfvkw4' />
-    <div style={{fontSize: '0.7rem', textAlign: 'center'}}>A video HelpScout made about our Customer Success team</div>
-    <br/>
+    <div style={{fontSize: '0.7rem', textAlign: 'center'}}>A <a href="https://www.helpscout.net/customers/beermenus/" style={{color: 'blue'}}>video HelpScout made</a> about our Customer Success team</div>
+    
+    <p>We also put together <a href="https://www.helpscout.net/helpu/help-desk-tips/share-customer-wins-with-slack/" style={{color: 'blue'}}>this piece on HelpScout / Slack integration</a>.</p>
 
     <p>As the company grew even more, I shifted my focus to developing new products and growing our audience of craft beer fans. This included scoping, roadmapping, testing, and launching new features. Working closely with our product team got me excited to dive deeper into the product side in order to speed up our product launch cycle.</p>
 
