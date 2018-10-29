@@ -15,9 +15,9 @@ const About = () => (
   <ul style={{marginLeft: '15px'}}>
     <li>I've lived in Brooklyn for the last 10 years</li>
     <li>I'm an avid cyclist with >1,000 Citibike rides</li>
-    <li>I regularly <a href="https://www.instagram.com/p/BQQLDz8DV06/?taken-by=itswillstephens">play league</a> and pick-up basketball</li>
-    <li>Earlier this year I got to see <a href="https://www.instagram.com/p/BegvpsnFAbR/?taken-by=itswillstephens">Messi score a game winning goal</a> in Camp Nou, a long time life dream.</li>
-    <li>I was the <a href="https://www.instagram.com/p/8ZprlbzWVx/?taken-by=itswillstephens">2015 National Champion</a> in bocce</li>
+    <li>I regularly <a href="https://www.instagram.com/p/BQQLDz8DV06/?taken-by=itswillstephens" style={{color: 'blue'}}>play league</a> and pick-up basketball</li>
+    <li>Earlier this year I got to see <a href="https://www.instagram.com/p/BegvpsnFAbR/?taken-by=itswillstephens" style={{color: 'blue'}}>Messi score a game winning goal</a> in Camp Nou, a long time life dream.</li>
+    <li>I was the <a href="https://www.instagram.com/p/8ZprlbzWVx/?taken-by=itswillstephens" style={{color: 'blue'}}>2015 National Champion</a> in bocce</li>
   </ul>
   
   <p style={{fontWeight: 'bold'}}>I have a passion for craft beer</p>
