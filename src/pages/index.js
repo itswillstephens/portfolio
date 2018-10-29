@@ -19,7 +19,7 @@ const IndexPage = () => (
 
     <YouTube id='HpDqzJfvkw4' />
     <div style={{fontSize: '0.7rem', textAlign: 'center'}}>A video HelpScout made about our Customer Success team.</div>
-
+    
     <p>Our CS team <a href="https://www.helpscout.net/customers/beermenus/" style={{color: 'blue'}}>uses HelpScout</a> to organize, automate, and scale operations. We worked with HelpScout to use <a href="https://www.helpscout.net/helpu/help-desk-tips/share-customer-wins-with-slack/" style={{color: 'blue'}}>this integration with Slack</a>.</p>
 
     <p>As the company grew even more, I shifted my focus to developing new products and growing our audience of craft beer fans. This included scoping, roadmapping, testing, and launching new features. Working closely with our product team got me excited to dive deeper into the product side in order to speed up our product launch cycle.</p>

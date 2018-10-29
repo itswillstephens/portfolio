@@ -28,7 +28,7 @@ const About = () => (
 
   <p>I've organized collaboration beers at several of the best craft breweries in New York City where we <a href="https://www.instagram.com/p/BSO15GglJGw/?taken-by=itswillstephens" style={{color: 'blue'}}> brewed a beer using a homebrew recipe of mine</a> and co-promoted the beers at participating bars on BeerMenus.</p>
 
- <p> A <a href="https://www.nytimes.com/2008/05/14/dining/14beer.html" style={{color: 'blue'}}>picture of my brother and I homebrewing</a> at ages of 4 and 7 was featured in the New York Times.</p>
+ <p> A <a href="https://www.nytimes.com/2008/05/14/dining/14beer.html" style={{color: 'blue'}}>picture of my brother and me homebrewing</a> at ages of 4 and 7 was featured in the New York Times.</p>
 
 
   </Layout>

@@ -42,7 +42,7 @@ const Projects = () => (
 
     <div>Technologies:</div>
       <ul style={{paddingLeft: '20px'}}>
-        <li>MongoDb</li>
+        <li>MongoDB</li>
         <li>React</li>
         <li>Redux</li>
         <li>Express</li>
