@@ -22,7 +22,7 @@ const About = () => (
   
   <p style={{fontWeight: 'bold'}}>I have a passion for craft beer</p>
   
-  <p>I'm a <a href="https://www.cicerone.org/us-en/users/will-stephens" style={{color: 'blue'}}>Certified Cicerone</a>, which is the beer equivalent of a sommelier for wine. Passing the exam to achieve this status requires extensive study on keeping and serving beer, beer styles, beer flavor and evaluation, beer ingredients and brewing processes, as welll as pairing beer with food. I'm also now a proctor for Certified Cicerone exams that take place in NYC.</p>
+  <p>I'm a <a href="https://www.cicerone.org/us-en/users/will-stephens" style={{color: 'blue'}}>Certified Cicerone</a>, which is the beer equivalent of a sommelier for wine. Passing the exam to achieve this status requires extensive study on keeping and serving beer, beer styles, beer flavor and evaluation, beer ingredients and brewing processes, as well as pairing beer with food. I'm also now a proctor for Certified Cicerone exams that take place in NYC.</p>
 
   <p>I also achieved the status of a Recognized Judge with the <a href="https://www.bjcp.org/" style={{color: 'blue'}}>Beer Judge Certification Program</a> and have judged the national homebrew competition.</p>
 
