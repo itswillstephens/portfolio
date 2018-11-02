@@ -17,7 +17,7 @@ const About = () => (
     <li>I'm an avid cyclist with >1,000 Citibike rides</li>
     <li>I regularly <a href="https://www.instagram.com/p/BQQLDz8DV06/?taken-by=itswillstephens" style={{color: 'blue'}}>play league</a> and pick-up basketball</li>
     <li>Earlier this year I got to see <a href="https://www.instagram.com/p/BegvpsnFAbR/?taken-by=itswillstephens" style={{color: 'blue'}}>Messi score a game winning goal</a> in Camp Nou, a long time dream</li>
-    <li>I was the <a href="https://www.instagram.com/p/8ZprlbzWVx/?taken-by=itswillstephens" style={{color: 'blue'}}>2015 National Champion</a> in bocce</li>
+    <li>I was the 2015 National Champion in bocce</li>
   </ul>
   
   <p style={{fontWeight: 'bold'}}>I have a passion for craft beer</p>
@@ -30,6 +30,7 @@ const About = () => (
 
  <p> A <a href="https://www.nytimes.com/2008/05/14/dining/14beer.html" style={{color: 'blue'}}>picture of my brother and me homebrewing</a> at ages of 4 and 7 was featured in the New York Times.</p>
 
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=3d9b2c79-95e0-4989-8eba-3040702cff83"> </script>
 
   </Layout>
 )
