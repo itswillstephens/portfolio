@@ -30,8 +30,6 @@ const About = () => (
 
  <p> A <a href="https://www.nytimes.com/2008/05/14/dining/14beer.html" style={{color: 'blue'}}>picture of my brother and me homebrewing</a> at ages of 4 and 7 was featured in the New York Times.</p>
 
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=3d9b2c79-95e0-4989-8eba-3040702cff83"> </script>
-
   </Layout>
 )
 
