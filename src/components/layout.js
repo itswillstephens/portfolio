@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import Drift from 'react-driftjs'
+import FullStory from 'react-fullstory'
 import { StaticQuery, graphql } from 'gatsby'
 
 import Header from './header'
@@ -43,6 +44,7 @@ const Layout = ({ children }) => (
           {children}
         </div>
         <Drift appId="nnfpsmpah8zf" />
+        <FullStory org="G435F" />
       </>
     )}
   />
