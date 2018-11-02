@@ -9,7 +9,7 @@ const Resume = () => (
       <p><a href={ResumePDF} download style={{color: 'blue'}}>Download PDF</a></p>
 
       <h3>Professional Experience</h3>
-      <div style={{fontWeight: '900'}}>Co-Founder & COO, BeerMenus Inc. – Brooklyn, NY, March 2008 - Present</div>
+      <div style={{fontWeight: '900'}}>Co-Founder & Head of Customer Success, BeerMenus Inc. – Brooklyn, NY, March 2008 - Present</div>
         <ul style={{paddingLeft: '20px'}}>
           <li>Created the company business plan and established the corporation.</li>
           <li>Developed and executed product strategy, sales, and support.</li>
