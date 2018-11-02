@@ -66,7 +66,7 @@ const Projects = () => (
         <li><a href="https://www.gatsbyjs.org/" style={{color: 'blue'}}>Gatsby.js</a>: I used this progressive web app generator to build this site. It runs on the React frontend framework with webpack to manage dependencies.</li>
         <li><a href="https://analytics.google.com/analytics/web/
         " style={{color: 'blue'}}>Google Analytics</a>: I of course have GA running to better understand the traffic that comes to this site.</li>
-        <li><a href="https://www.fullstory.com/" style={{color: 'blue'}}>FullStory</a>: I use this session replay service to better understand the customer journey.</li>
+        <li><a href="https://www.fullstory.com/" style={{color: 'blue'}}>FullStory</a>: I use this session replay service to better understand the customer journey and to make sure there are no <a href="https://blog.fullstory.com/rage-clicks-turn-analytics-into-actionable-insights/" style={{color: 'blue'}}>rage clicks</a>.</li>
         <li><a href="https://www.drift.com" style={{color: 'blue'}}>Drift</a>: I use this to power the chat bubble at the bottom right to make it easy for you to get in touch with me.</li>
       </ul>
   </Layout>
