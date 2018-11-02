@@ -16,6 +16,7 @@
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-driftjs": "^1.1.4",
+    "react-event-timeline": "^1.5.4",
     "react-fullstory": "^1.0.3",
     "react-helmet": "^5.2.0",
     "react-youtube-embed": "^1.0.2",
