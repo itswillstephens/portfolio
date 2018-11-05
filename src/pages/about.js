@@ -12,6 +12,8 @@ const About = () => (
     >
     </img>
 
+
+    <p style={{fontWeight: 'bold'}}>A few facts about me</p>
   <ul style={{marginLeft: '15px'}}>
     <li>I've lived in Brooklyn for the last 10 years</li>
     <li>I'm an avid cyclist with >1,000 Citibike rides</li>
