@@ -13,7 +13,7 @@ const IndexPage = () => (
     <p>I've spent my career working at BeerMenus, a company <a href="https://www.beermenus.com/about" style={{color: 'blue'}}>I created with my brother</a> shortly after finishing school.</p>
 
     <YouTube id='HpDqzJfvkw4' />
-    <div style={{fontSize: '0.7rem', textAlign: 'center'}}>A video HelpScout made about the BeerMenus Customer Success team</div>
+    <div style={{fontSize: '0.7rem', textAlign: 'center'}}>A video HelpScout made about the BeerMenus Success team</div>
     <br/>
 
     <p>I recently started teaching myself full stack web development to learn how to better scale and automate processes for support, sales, and customer success teams. I'm currently working on a side project <a href="https://www.goodstreams.io/" style={{color: 'blue'}}>GoodStreams</a> which I developed to learn the MERN (Mongo, Express, React, Node) stack and to continually learn new technologies.</p>
