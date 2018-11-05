@@ -16,7 +16,7 @@ const IndexPage = () => (
     <div style={{fontSize: '0.7rem', textAlign: 'center'}}>A video HelpScout made about the BeerMenus Customer Success team</div>
     <br/>
 
-    <p>I recently started learning full stack web development to learn how to better scale and automate processes for support, sales, and customer success teams and I'm currently working on a side project <a href="https://www.goodstreams.io/" style={{color: 'blue'}}>GoodStreams</a> which I developed on my own to learn the MERN (Mongo, Express, React, Node) stack and to continually learn new technologies.</p>
+    <p>I recently started teaching myself full stack web development to learn how to better scale and automate processes for support, sales, and customer success teams. I'm currently working on a side project <a href="https://www.goodstreams.io/" style={{color: 'blue'}}>GoodStreams</a> which I developed to learn the MERN (Mongo, Express, React, Node) stack and to continually learn new technologies.</p>
 
     <p>Thanks for stopping by.</p>
 
