@@ -10,7 +10,7 @@ const IndexPage = () => (
 
     <p>I'm an entrepreneur, customer success manager, and beer brewer.</p>
 
-    <p>I've spent my career working at BeerMenus, a company <a href="https://www.beermenus.com/about" style={{color: 'blue'}}>I created with my brother</a> shortly after finishing school.</p>
+    <p>I've spent my career working at BeerMenus, a company <a href="https://www.beermenus.com/about" style={{color: 'blue'}}>I created with my brother</a>.</p>
 
     <YouTube id='HpDqzJfvkw4' />
     <div style={{fontSize: '0.7rem', textAlign: 'center'}}>A video HelpScout made about the BeerMenus Success team</div>

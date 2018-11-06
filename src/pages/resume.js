@@ -67,7 +67,7 @@ const Resume = () => (
         <div>Summer 2018. Full time web development immersive with >500 hours of full stack web development and computer science.</div>
         <br/>
         <div style={{fontWeight: '900'}}>Cicerone Certification Program, Chicago, IL</div>
-        <div>December 2015. Achieved status as a Certified Cicerone® passing the rigorous 8-hour exam.</div>
+        <div>December 2015. Achieved status as a Certified Cicerone®.</div>
         <br/>
         <div style={{fontWeight: '900'}}>Dickinson College, Carlisle, PA</div>
         <div>Bachelor of Arts, May 2006. Major in Policy Studies and minor in Environmental Studies.</div>
